@@ -15,3 +15,8 @@ print(s1.name)
 
 Class.attr
 ojb.attr
+
+---
+
+del s1.name
+del s1 # xoa oject
